@@ -1,0 +1,3 @@
+[submodule "frontend/ui"]
+	path = frontend/ui
+	url = https://github.com/Lalit-kishor/frontend-ui-ProjectDock.git
